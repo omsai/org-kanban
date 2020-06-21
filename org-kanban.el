@@ -24,6 +24,7 @@
 
 (require 's)
 (require 'org)
+(require 'org-table)
 (require 'dash)
 (require 'subr-x)
 (require 'widget)
